@@ -33,7 +33,7 @@ If it gives off any type of error such as `/bin/bash not found`
 You will have to use `chmod +x JFetch.jar` to give it permission to run
 
 ## 
-Copyright (c) 2025 AndronikosGl. All rights reserved.
+Copyright © 2025 AndronikosGl. All rights reserved.
 
 This repository contains proprietary code. You may view the code, but you **may not copy, modify, redistribute, or use it for commercial purposes** without explicit written permission from the copyright holder.
 
