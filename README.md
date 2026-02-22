@@ -35,7 +35,7 @@ You will have to use `chmod +x JFetch.jar` to give it permission to run
 ## 
 Copyright © 2025 AndronikosGl. All rights reserved.
 
-This repository contains proprietary code. You may view the code, but you **may not copy, modify, redistribute, or use it for commercial purposes** without explicit written permission from the copyright holder.
+This project is source-available. Modification and redistribution are not permitted.
 
 
 
