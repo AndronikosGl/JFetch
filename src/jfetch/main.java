@@ -320,6 +320,7 @@ public final class main extends javax.swing.JFrame {
         desiredHeight += insets.top + insets.bottom; // add title bar + borders
 
         setSize(617, desiredHeight);
+        setLocationRelativeTo(null);
         setMinimumSize(new Dimension(617, desiredHeight));
         this.setIconImage(new ImageIcon(main.class.getResource("icon.png")).getImage());
         setDistroLogo();
@@ -458,6 +459,7 @@ public final class main extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("jfetch 1.0");
         setBackground(new java.awt.Color(51, 51, 51));
+        setLocation(new java.awt.Point(50, 50));
         setLocationByPlatform(true);
         setResizable(false);
         getContentPane().setLayout(null);
@@ -513,7 +515,7 @@ public final class main extends javax.swing.JFrame {
         Content.setText("Please wait...");
         Content.setVerticalAlignment(javax.swing.SwingConstants.TOP);
         getContentPane().add(Content);
-        Content.setBounds(215, 21, 400, 240);
+        Content.setBounds(215, 21, 400, 260);
 
         Colorbar.setFont(new java.awt.Font("Serif", 1, 18)); // NOI18N
         Colorbar.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
