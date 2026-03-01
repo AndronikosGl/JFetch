@@ -487,7 +487,7 @@ public final class main extends javax.swing.JFrame {
         separator.setForeground(new java.awt.Color(153, 153, 153));
         separator.setText("|");
         getContentPane().add(separator);
-        separator.setBounds(113, 290, 10, 40);
+        separator.setBounds(113, 290, 50, 40);
 
         copy.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         copy.setIcon(new javax.swing.ImageIcon(getClass().getResource("/jfetch/screenshot-light.png"))); // NOI18N
