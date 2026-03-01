@@ -481,7 +481,7 @@ public final class main extends javax.swing.JFrame {
             }
         });
         getContentPane().add(uptime);
-        uptime.setBounds(130, 290, 130, 40);
+        uptime.setBounds(130, 290, 230, 40);
 
         separator.setFont(new java.awt.Font("Inter Light", 0, 24)); // NOI18N
         separator.setForeground(new java.awt.Color(153, 153, 153));
