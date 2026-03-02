@@ -29,6 +29,13 @@ If it gives off any type of error such as `/bin/bash not found`
 - You will need to copy the bash binary from its original place to /bin and re run the project or create a symbolic link `ln -s /usr/local/bin/bash /bin/bash`
 - You will need to make sure bash is installed on your system
 
+## Trademark Notice
+
+All distribution logos included in this project are the property of their respective owners. 
+They are included **for informational and identification purposes only** and do not imply endorsement or sponsorship by the respective trademark owners.
+
+
+
 ## 
 Copyright © 2025 AndronikosGl. All rights reserved.
 
